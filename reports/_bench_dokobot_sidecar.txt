@@ -1,0 +1,71 @@
+======================================================================
+  AI DAILY DIGEST — RAW DATA
+  2026-04-21 02:17 UTC  |  arXiv skipped (weekly on Monday)
+
+  Authority tiers: 1=官方机构(OpenAI/Anthropic/DeepMind等)  2=知名研究者/媒体  3=社区热点
+  buzz_score: 综合热度评分（points/stars/score 加权）
+  is_agent: 是否 agent 相关（优先入选信号）
+  source_timeout=8s | request_timeout=8s
+======================================================================
+
+
+## SOURCE 1: Anthropic News (official)
+------------------------------------------------------------
+  (no data)
+
+
+## SOURCE 2: RSS — 权威机构官方博客（不含 Anthropic）
+------------------------------------------------------------
+
+[T2] [AGENT] [Hugging Face] How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas
+  buzz=1000
+  https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas
+
+[T2] [AGENT] [BAIR] Gradient-based Planning for World Models at Longer Horizons
+  buzz=1000
+  <!-- twitter -->
+<meta name="twitter:title" content="Gradient-based Planning for World Models at Longer Horizons" />
+
+<meta name="twitter:card" conten
+  http://bair.berkeley.edu/blog/2026/04/20/grasp/
+
+[T2] [Microsoft Research] Can we AI our way to a more sustainable world?
+  buzz=1000
+  <p>Doug Burger, sustainability expert Amy Luers, and optimization researcher Ishai Menache examine the global emissions implications of datacenter ope
+  https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/
+
+
+## SOURCE 3: AI Newsletters (The Batch / Import AI / TLDR AI / Simon Willison)
+------------------------------------------------------------
+  (skipped: TIMEOUT>8s)
+
+
+## SOURCE 4: Hacker News
+------------------------------------------------------------
+  (skipped: TIMEOUT>8s)
+
+
+## SOURCE 5: Reddit (MachineLearning / LocalLLaMA / artificial)
+------------------------------------------------------------
+  (skipped: TIMEOUT>8s)
+
+
+## SOURCE 6: GitHub Trending (AI repos, today's stars)
+------------------------------------------------------------
+  (skipped: TIMEOUT>8s)
+
+
+## SOURCE 7: YouTube AI Channels (72h window)
+------------------------------------------------------------
+  (no data)
+
+
+## DOKOBOT_SUPPLEMENT (local-only sidecar)
+------------------------------------------------------------
+  config: include_hn=True include_x=True | hn_skipped=True
+  (skipped: no local dokobot device (bridge/extension not connected))
+
+
+======================================================================
+  END OF RAW DATA
+======================================================================

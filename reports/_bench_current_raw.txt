@@ -1,0 +1,153 @@
+======================================================================
+  AI DAILY DIGEST — RAW DATA
+  2026-04-21 01:26 UTC  |  arXiv skipped (weekly on Monday)
+
+  Authority tiers: 1=官方机构(OpenAI/Anthropic/DeepMind等)  2=知名研究者/媒体  3=社区热点
+  buzz_score: 综合热度评分（points/stars/score 加权）
+  is_agent: 是否 agent 相关（优先入选信号）
+  source_timeout=20s | request_timeout=12s
+======================================================================
+
+
+## SOURCE 1: Anthropic News (official)
+------------------------------------------------------------
+  (no data)
+
+
+## SOURCE 2: RSS — 权威机构官方博客（不含 Anthropic）
+------------------------------------------------------------
+
+[T2] [AGENT] [Hugging Face] How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas
+  buzz=1000
+  https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas
+
+[T2] [AGENT] [BAIR] Gradient-based Planning for World Models at Longer Horizons
+  buzz=1000
+  <!-- twitter -->
+<meta name="twitter:title" content="Gradient-based Planning for World Models at Longer Horizons" />
+
+<meta name="twitter:card" conten
+  http://bair.berkeley.edu/blog/2026/04/20/grasp/
+
+[T2] [Microsoft Research] Can we AI our way to a more sustainable world?
+  buzz=1000
+  <p>Doug Burger, sustainability expert Amy Luers, and optimization researcher Ishai Menache examine the global emissions implications of datacenter ope
+  https://www.microsoft.com/en-us/research/podcast/can-we-ai-our-way-to-a-more-sustainable-world/
+
+
+## SOURCE 3: AI Newsletters (The Batch / Import AI / TLDR AI / Simon Willison)
+------------------------------------------------------------
+
+[T1] [Import AI (Jack Clark)] Import AI 454: Automating alignment research; safety study of a Chinese model; HiFloat4
+  buzz=1000
+  At what point do the financial markets price in the singularity?
+  https://importai.substack.com/p/import-ai-454-automating-alignment
+
+[T2] [Simon Willison (AI Tools)] SQL functions in Google Sheets to fetch data from Datasette
+  buzz=1000
+  
+    <p><strong>TIL:</strong> <a href="https://til.simonwillison.net/google-sheets/datasette-sql">SQL functions in Google Sheets to fetch data from Da
+  https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything
+
+
+## SOURCE 4: Hacker News
+------------------------------------------------------------
+  (skipped: TIMEOUT>20s)
+
+
+## SOURCE 5: Reddit (MachineLearning / LocalLLaMA / artificial)
+------------------------------------------------------------
+
+[T3] [AGENT] Researchers gave 1,222 people AI assistants, then took them away after 10 minutes. Performance crashed below the control group and people stopped trying. UCLA, MIT, Oxford, and Carnegie Mellon call it the "boiling frog" effect.
+  buzz=380 | r/artificial score=278 comments=102
+  https://reddit.com/r/artificial/comments/1sqcz1m/researchers_gave_1222_people_ai_assistants_then/
+
+[T3] [AGENT] Wasting hundreds on API credits with runaway agents is basically a rite of passage at this point. Here's mine.
+  buzz=10 | r/artificial score=4 comments=6
+  https://reddit.com/r/artificial/comments/1sqn7ej/wasting_hundreds_on_api_credits_with_runaway/
+
+[T3] Qwen 3.6 Max Preview just went live on the Qwen Chat website. It currently has the highest AA-Intelligence Index score among Chinese models (52) (Will it be open source?)
+  buzz=336 | r/LocalLLaMA score=263 comments=73
+  https://reddit.com/r/LocalLLaMA/comments/1sqlcan/qwen_36_max_preview_just_went_live_on_the_qwen/
+
+[T3] Layman's comparison on Qwen3.6 35b-a3b and Gemma4 26b-a4b-it
+  buzz=233 | r/LocalLLaMA score=182 comments=51
+  https://reddit.com/r/LocalLLaMA/comments/1sqxiz0/laymans_comparison_on_qwen36_35ba3b_and_gemma4/
+
+[T3] Why doesn't any OSS tool treat llama.cpp as a first class citizen?
+  buzz=230 | r/LocalLLaMA score=167 comments=63
+  https://reddit.com/r/LocalLLaMA/comments/1sr140o/why_doesnt_any_oss_tool_treat_llamacpp_as_a_first/
+
+[T3] [D] It seems that EVERY DAY there are around 100 - 200 new machine learning papers uploaded on Arxiv.
+  buzz=182 | r/MachineLearning score=132 comments=50
+  https://reddit.com/r/MachineLearning/comments/1sqi69n/d_it_seems_that_every_day_there_are_around_100/
+
+[T3] Are we optimizing AI research for acceptance rather than lasting value? [D]
+  buzz=112 | r/MachineLearning score=73 comments=39
+  https://reddit.com/r/MachineLearning/comments/1sqps89/are_we_optimizing_ai_research_for_acceptance/
+
+[T3] ubergarm/Kimi-K2.6-GGUF Q4_X now available
+  buzz=94 | r/LocalLLaMA score=73 comments=21
+  https://reddit.com/r/LocalLLaMA/comments/1sr28kr/ubergarmkimik26gguf_q4_x_now_available/
+
+[T3] Honest opinion about AI
+  buzz=72 | r/artificial score=43 comments=29
+  https://reddit.com/r/artificial/comments/1sr1vhi/honest_opinion_about_ai/
+
+[T3] I benchmarked 21 local LLMs on a MacBook Air M5 for code quality AND speed
+  buzz=62 | r/LocalLLaMA score=31 comments=31
+  https://reddit.com/r/LocalLLaMA/comments/1sr2wid/i_benchmarked_21_local_llms_on_a_macbook_air_m5/
+
+[T3] What fundamental research exists anwering if / if not AGI can be achieved through LLMs?
+  buzz=60 | r/artificial score=2 comments=58
+  https://reddit.com/r/artificial/comments/1sqvxgf/what_fundamental_research_exists_anwering_if_if/
+
+[T3] C++ CuTe / CUTLASS vs CuTeDSL (Python) in 2026 — what should new GPU kernel / LLM inference engineers actually learn?[D]
+  buzz=52 | r/MachineLearning score=39 comments=13
+  https://reddit.com/r/MachineLearning/comments/1sqfgat/c_cute_cutlass_vs_cutedsl_python_in_2026_what/
+
+[T3] Qwen3-Reranker as a game mechanic: combat driven by semantic scores
+  buzz=31 | r/LocalLLaMA score=27 comments=4
+  https://reddit.com/r/LocalLLaMA/comments/1sr5rwz/qwen3reranker_as_a_game_mechanic_combat_driven_by/
+
+[T3] PrismML — Introducing Ternary Bonsai: Top Intelligence at 1.58 Bits
+  buzz=17 | r/LocalLLaMA score=16 comments=1
+  https://reddit.com/r/LocalLLaMA/comments/1sr8sfl/prismml_introducing_ternary_bonsai_top/
+
+[T3] New Gallup poll finds that low-income Americans are turning to AI as a replacement for expensive doctor's visits. Only 14% of all Americans use AI for this reason, but this figure jumps to 32% among the lowest income bracket (&lt;$24,000). A plurality of Americans distrust AI's use in healthcare.
+  buzz=15 | r/artificial score=12 comments=3
+  https://reddit.com/r/artificial/comments/1sqsut6/new_gallup_poll_finds_that_lowincome_americans/
+
+
+## SOURCE 6: GitHub Trending (AI repos, today's stars)
+------------------------------------------------------------
+
+[T3] [AGENT] openai/openai-agents-python
+  buzz=905 | stars_today=905 | created=2025-03-11
+  A lightweight, powerful framework for multi-agent workflows
+  https://github.com/openai/openai-agents-python
+
+[T3] thunderbird/thunderbolt
+  buzz=675 | stars_today=675 | created=2025-07-23
+  AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
+  https://github.com/thunderbird/thunderbolt
+
+[T3] koala73/worldmonitor
+  buzz=316 | stars_today=316 | created=2026-01-08
+  Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+  https://github.com/koala73/worldmonitor
+
+[T3] deepseek-ai/DeepGEMM
+  buzz=109 | stars_today=109 | created=2025-02-13
+  DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
+  https://github.com/deepseek-ai/DeepGEMM
+
+
+## SOURCE 7: YouTube AI Channels (72h window)
+------------------------------------------------------------
+  (no data)
+
+
+======================================================================
+  END OF RAW DATA
+======================================================================
